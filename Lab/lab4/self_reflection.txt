@@ -1,0 +1,33 @@
+All questions are optional, though try to answer at least 4. The main goal of this file is to get you thinking critically about your own work, but we will also use these self reflections at the end of the semester when we do our internal review of the course.
+
+ArrayDeque:
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: Instead of placing the start index at the middle of the code, I put it at the beginning which helped w visualization and ease of code.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: I created two resize functions for the both instances when resizing the array, when it should be possible in one.
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A: Create a more elegant and less bulky resize function.
+
+-----
+
+LinkedListDeque:
+
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: My code works pretty efficiently and well.
+
+
+-----
+
+Meta:
+
+Q: Did you like this design review process? Anything we should do differently next time?
+
+A: It really helped in determining how to approach these problems 
